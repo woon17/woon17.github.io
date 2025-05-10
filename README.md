@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, Shufa
 #### Web Development
-I'm Shufa from Singapore, and I am a web developer. I really enjoy learning frameworks like Django and Sprint boot.
+I'm Shufa from Singapore, and I am a web developer. 
 
-Skills: HTML / CSS / Django / Java / Python
+Skills: Sprint Boot / Java / Python
 
-- 🔭 I’m currently participating the [Full Stack Training Program](https://github.com/woon17/Full-Stack-Training-Program)
-- 🌱 I’m currently learning Web Development 
+- 🔭 Currently working as an eFX software engineer.
+- 🌱 Passionate about improving latency, throughput, and system performance.
 
 - [My Portfolio](https://woon17.github.io/portfolio/)
 - [My Resume](https://woon17.github.io/portfolio/resume.html)
-- [Sports Activities Websites](https://woon17.github.io/sports-activities-system/)
+- [My docs](https://woon17.github.io/docs/)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/woon17) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shufa-wen-7a530418b/)  
 
